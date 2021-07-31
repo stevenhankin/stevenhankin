@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Steve! 👋
 
 <!--
 **stevenhankin/stevenhankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenhankin&show_icons=true&theme=radical)
+I'm focussed on [Typescript](https://www.typescriptlang.org/) and also enjoy NodeJS and Python.  Long history with Oracle too.
+
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenhankin&show_icons=true)
