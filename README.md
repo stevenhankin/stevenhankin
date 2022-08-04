@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Developer by day, OpenSource contributor by night 🦸
+### I ❤️ Software Engineering
 
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenhankin&show_icons=true)
