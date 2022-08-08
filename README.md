@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenhankin&show_icons=true)
 
+### Checkout my recent articles on Medium
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@steven-hankin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@steven-hankin/0" alt="Recent Article 0"> 
