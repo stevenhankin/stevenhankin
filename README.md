@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Software Engineer
+### I'm a Software Engineer working for Financial Services in London, UK
 
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenhankin&show_icons=true)
 
